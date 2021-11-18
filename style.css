@@ -1,0 +1,628 @@
+
+@font-face {
+    font-family: "name";
+    src: url(../Portfolio/media/Fonts/Hijrnotes_PERSONAL_USE_ONLY.ttf);
+}
+
+@font-face {
+    font-family: "futura";
+    src: url(../Portfolio/media/Fonts/FuturaNowHeadline.ttf);
+}
+@font-face {
+    font-family: "futuraBold";
+    src: url(../Portfolio/media/Fonts/FuturaNowHeadlineBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: "futuraExtra";
+    src: url(../Portfolio/media/Fonts/FuturaNowHeadlineExtraBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: "better";
+    src: url(../Portfolio/media/Fonts/Better\ Together\ Script.ttf);
+}
+
+body{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    
+}
+
+h3{
+    font-family: "futuraBold";
+}
+
+h4{
+    font-family: "futuraBold";
+}
+
+p{
+    font-family: "futura";
+}
+
+
+.welcomeDiv{
+    width: 100% !important;
+    height: 1000px ;
+    background-image: url(../Portfolio/media/background\ image.jpg) ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #000000;
+    border-radius: 0px 0px 100px 100px;
+    
+    
+    
+}
+
+.navBar{
+    width: 95%;
+    height: 125px;
+    background-color: rgba(255, 255, 255, 0.082);
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    z-index: 1;
+    font-family:'Courier New', Courier, monospace;
+    border-radius: 0px 0px 100px 100px;
+    margin-left: 2.5%;
+}
+
+
+.navBar ul li{
+    list-style-type: none;
+    display: inline-block;
+    justify-content: space-around;
+    color: white;
+    margin-left: 50px;
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+ 
+}
+
+
+a:hover{
+    color: grey;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+@media (max-width: 1200px) {
+    .welcomeDiv{
+        height: 1500px;
+        border-radius: 0px 0px 150px 150px;
+    }    
+    .messageWelcome h1{
+        position: relative;
+        top: auto;
+    }
+    .messageWelcome h2{
+        position: relative;
+        top: auto;
+        font-size: 60px !important;
+    }
+    .navBar{
+        height: 200px;
+    }
+    .navBar ul li{
+        display: none;
+    }
+
+    .logoImage{
+        position: absolute; 
+        left: 0; 
+        right: 0; 
+        bottom: 0%;
+        margin:auto;
+        width: 250px;
+    }
+
+    .imageContainer{
+        margin-top: 200px;
+    }
+    .ulFooter{
+        font-size: 40px;
+        display: inline-flex !important;
+        flex-direction: column !important;
+        position: absolute;
+        left: 21%;
+        width: 50% !important;
+    }
+    
+    .ulFooter a{
+        position: relative;
+        top: 50px;
+    }
+    
+    .buttonsKev{
+        position: relative;
+        bottom: 0px;
+
+    }
+
+    .myself{
+        flex-direction: column;
+    }
+
+    .myText{
+        width: 500px !important;
+    }
+
+    p{
+        font-size: 25px !important;
+    }
+    
+    h2{
+        font-size: 40px !important;
+    }
+    
+    h3{
+        font-size: 40px !important;
+    }
+    
+    h4{
+        font-size: 40px !important;
+    }
+    
+    .cuoteOne p{
+        font-size: 60px !important;
+    }
+    .cuoteTwo p{
+        font-size: 60px !important;
+    }
+
+    .offers ul li{
+        font-size: 30px !important;
+    }   
+
+    #profesionContent{
+        width: 500px !important;
+    }
+
+    .photo{
+        width: 400px !important;
+        height: 400px !important;
+    }
+
+    .contact{
+        width: 100% !important;
+    }
+    
+    .about p{
+        width: 100% !important;
+    }
+
+    .personalWorks{
+        display: none;
+    }
+    .imagesMe{
+        width: 500px !important;
+        height: auto !important;
+    }
+    .footerMe{
+        display: none !important;
+    }
+    
+}
+
+.messageWelcome{
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: 600px;
+    color: none !important;
+    transition-property: color;
+    
+    
+}
+
+.messageWelcome h1{
+    font-size: 700%;
+    font-family: "name";
+    margin: 0%;
+}
+.messageWelcome{
+    display: block;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+@keyframes fadein {
+    from { color: rgba(0, 0, 0, 0)}
+    to   { color: white}
+  }
+.messageWelcome {
+   animation: fadein 2s;
+}
+
+
+.messageWelcome h2{
+    font-size: 40px;
+    margin: 0%;
+    position: relative;
+    bottom: 50px;
+    font-family: "futuraExtra";
+}
+
+.main{
+    width: 100%;
+    margin: auto;
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+
+.sectionBox{
+ 
+    width: 75%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+    border-bottom: 1px solid white;
+    color: white;
+    margin-left: 12.5%;
+}
+
+p{
+    font-size: 20px;
+}
+
+.about h3{
+    font-size: 40px;
+}
+
+.about p{
+    width: 50%;
+    margin: auto;
+}
+
+.myself{
+    display: inline-flex;
+    justify-content: space-between;
+    margin: 0%;
+}
+
+.myText{
+    padding-top: 50;
+    width: 49%;
+    text-align: center;
+    margin: auto;
+}
+
+.myText h3{
+    font-size: 40px;
+    margin: 0%;
+    padding: 0%;
+}
+.myText h4{
+    font-size: 25px;
+    margin: 0%;
+    padding: 0%;
+    color: rgb(156, 156, 156);
+}
+#profesionContent{
+    width: 45%;
+    padding-top: 50px;
+    text-align: center;
+    display: inline-block;
+}
+
+.myPhoto{
+    width: 99%;
+    text-align: center;
+}
+
+.myPhoto img{
+    width:99%;
+}
+
+.brandsBox{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+.brandsBox ul li{
+    width: auto;
+    position: relative;
+    right: 30px;
+    list-style: none;
+}
+
+.brandsBox ul{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-evenly;; 
+       
+}
+
+.brandsLogos{
+    border: none !important;;
+}
+
+.cuote{
+    background-image: url(../Portfolio/media/cuotebackground.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #000000;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0px 0px 100px 100px;
+}
+
+.cuoteOne{
+    
+    width: 100%;
+    height: 400px;
+}
+
+.cuoteOne p{
+    margin: 0%;
+    padding: 0%;
+    font-size:  350%;
+    font-family: "better";
+    color: rgb(255, 255, 255);
+}
+
+.cuoteTwo{
+    width: 100%;
+    height: 200px;
+}
+
+.cuoteTwo p{
+    margin: 0%;
+    padding: 0%;
+    font-size:  350%;
+    font-family: "better";
+    color: rgb(255, 255, 255);
+}
+
+.offer h3{
+    font-size: 40px; 
+}
+
+.offer{
+    border: none !important;
+}
+
+.offers ul li{
+    list-style: none;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.offers ul{
+    margin: 0%;
+    padding: 0%;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+ .contact{
+    border: none !important;
+    width: 50%;
+    display: inline-flex;
+    text-align: center;
+    justify-content: space-evenly;
+    margin: 0% !important;
+    }
+
+    .cardBox{
+        width: 150px;
+        height: 150px;
+        border: 1px solid rgb(44, 44, 44);
+        border-radius: 20px;
+        margin: 0%;
+        padding: 0%;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+.previewBox{
+    width: 70%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.photo{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+.photoOne{
+    width: 250px;
+    background-image: url(../Portfolio/media/products/1.jpg);
+    background-size: contain;
+    display: grid;
+    align-content: center;
+}
+
+.photoOne:hover{
+    background-image: url(../Portfolio/media/products/1\ black.jpg);
+}
+
+.photoTwo{
+    background-image: url(../Portfolio/media/products/2.jpg);
+    background-size: cover;
+}
+
+.photoTwo:hover{
+    background-image: url(../Portfolio/media/products/2\ black.jpg);
+}
+
+.photoThree{
+    background-image: url(../Portfolio/media/products/3.jpg);
+    background-size: cover;
+}
+
+.photoThree:hover{
+    background-image: url(../Portfolio/media/products/3\ blk.jpg);
+    background-size:cover ;
+}
+
+.photoFour{
+    background-image: url(../Portfolio/media/products/4.jpg);
+    background-size: cover;
+}
+
+.photoFour:hover{
+    background-image: url(../Portfolio/media/products/4\ blak.jpg);
+}
+
+.photoFive{
+    background-image: url(../Portfolio/media/products/5.jpg);
+    background-size: cover;
+}
+
+.photoFive:hover{
+    background-image: url(../Portfolio/media/products/5\ blk.jpg);
+    background-size: cover;
+}
+
+.photoSix{
+    background-image: url(../Portfolio/media/products/6.jpg);
+    background-size: cover;
+}
+
+.photoSix:hover{
+    background-image: url(../Portfolio/media/products/6\ blk.jpg);
+}
+
+.photoSeven{
+    background-image: url(../Portfolio/media/products/7.jpg);
+    background-size: cover;
+}
+
+.photoSeven:hover{
+    background-image: url(../Portfolio/media/products/7\ blak.jpg);
+}
+
+.photoEight{
+    background-image: url(../Portfolio/media/products/8.jpg);
+    background-size: cover;
+}
+
+.photoEight:hover{
+    background-image: url(../Portfolio/media/products/8\ blak.jpg);
+}
+
+.photoNine{
+    background-image: url(../Portfolio/media/products/9.jpg);
+    background-size: cover  ;
+}
+
+.photoNine:hover{
+    background-image: url(../Portfolio/media/products/9\ black.jpg);
+}
+
+.worksId{
+    color: white;
+    font-size: 40px;
+    position: relative;
+    top: 60px;
+    font-family: "eupho";
+}
+
+
+.imageContainer{
+    width: 100%;
+    height: 700px;
+    padding-top: 8%;
+    display: inline-flex;
+    justify-content:center ;
+    align-items: center;
+}
+
+.imagesKev{
+    width: 40%;
+    height: 75%;
+    background-color: black;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonsKev{
+    text-align: center;
+    display: inline-flex;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: 100px;
+    width: 100%;
+}
+
+.buttonsKev button{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border: none;
+    margin: 20px;
+    text-align: center;
+}
+.buttonLess{
+    background-image: url('../Portfolio/media/arrowIzq.png');
+    background-size: contain;
+}
+.buttonAdd{
+    background-image: url('../Portfolio/media/arrowDer.png');
+    background-size: cover;
+}
+.vaca{
+    background-color: black !important;
+}
+
+.ulFooter{
+    list-style: none;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    right: 1%;
+    margin: auto;
+}
+
+.ulFooter li{
+    margin: 0px 20px;
+    display: inline;
+
+}
+
+.personalWorks{
+    color: white;
+    width: 100%;
+    height: 25px;
+    position: relative;
+    top: 50px;
+}
+
+
+.imagesMe{
+    height: 650px !important;
+    width: auto;
+    position: relative;
+    top: 100px;
+}
+
+.meContainer{
+    height: 1000px;
+    padding: 0% !important;
+}
