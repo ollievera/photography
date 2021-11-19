@@ -1,26 +1,26 @@
 
 @font-face {
     font-family: "name";
-    src: url(../Portfolio/media/Fonts/Hijrnotes_PERSONAL_USE_ONLY.ttf);
+    src: url(/photography/Hijrnotes_PERSONAL_USE_ONLY.ttf);
 }
 
 @font-face {
     font-family: "futura";
-    src: url(../Portfolio/media/Fonts/FuturaNowHeadline.ttf);
+    src: url(/photography/FuturaNowHeadline.ttf);
 }
 @font-face {
     font-family: "futuraBold";
-    src: url(../Portfolio/media/Fonts/FuturaNowHeadlineBoldItalic.ttf);
+    src: url(/photography/FuturaNowHeadlineBoldItalic.ttf);
 }
 
 @font-face {
     font-family: "futuraExtra";
-    src: url(../Portfolio/media/Fonts/FuturaNowHeadlineExtraBoldItalic.ttf);
+    src: url(/photography/FuturaNowHeadlineExtraBoldItalic.ttf);
 }
 
 @font-face {
     font-family: "better";
-    src: url(../Portfolio/media/Fonts/Better\ Together\ Script.ttf);
+    src: url(/photography/Better\ Together\ Script.ttf);
 }
 
 body{
@@ -47,7 +47,7 @@ p{
 .welcomeDiv{
     width: 100% !important;
     height: 1000px ;
-    background-image: url(../Portfolio/media/background\ image.jpg) ;
+    background-image: url('/photography/background\ image.jpg') ;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -353,7 +353,7 @@ p{
 }
 
 .cuote{
-    background-image: url(../Portfolio/media/cuotebackground.jpg);
+    background-image: url('/photography/cuotebackground.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -450,88 +450,88 @@ p{
 
 .photoOne{
     width: 250px;
-    background-image: url(../Portfolio/media/products/1.jpg);
+    background-image: url('/photography/products/1.jpg);
     background-size: contain;
     display: grid;
     align-content: center;
 }
 
 .photoOne:hover{
-    background-image: url(../Portfolio/media/products/1\ black.jpg);
+    background-image: url('/photography/1\ black.jpg);
 }
 
 .photoTwo{
-    background-image: url(../Portfolio/media/products/2.jpg);
+    background-image: url('/photography/2.jpg);
     background-size: cover;
 }
 
 .photoTwo:hover{
-    background-image: url(../Portfolio/media/products/2\ black.jpg);
+    background-image: url('/photography/2\ black.jpg);
 }
 
 .photoThree{
-    background-image: url(../Portfolio/media/products/3.jpg);
+    background-image: url('/photography/3.jpg);
     background-size: cover;
 }
 
 .photoThree:hover{
-    background-image: url(../Portfolio/media/products/3\ blk.jpg);
+    background-image: url('/photography/3\ blk.jpg);
     background-size:cover ;
 }
 
 .photoFour{
-    background-image: url(../Portfolio/media/products/4.jpg);
+    background-image: url('/photography/4.jpg);
     background-size: cover;
 }
 
 .photoFour:hover{
-    background-image: url(../Portfolio/media/products/4\ blak.jpg);
+    background-image: url('/photography/4\ blak.jpg);
 }
 
 .photoFive{
-    background-image: url(../Portfolio/media/products/5.jpg);
+    background-image: url('/photography/5.jpg);
     background-size: cover;
 }
 
 .photoFive:hover{
-    background-image: url(../Portfolio/media/products/5\ blk.jpg);
+    background-image: url('/photography/5\ blk.jpg);
     background-size: cover;
 }
 
 .photoSix{
-    background-image: url(../Portfolio/media/products/6.jpg);
+    background-image: url('/photography/6.jpg);
     background-size: cover;
 }
 
 .photoSix:hover{
-    background-image: url(../Portfolio/media/products/6\ blk.jpg);
+    background-image: url('/photography/6\ blk.jpg);
 }
 
 .photoSeven{
-    background-image: url(../Portfolio/media/products/7.jpg);
+    background-image: url('/photography/7.jpg);
     background-size: cover;
 }
 
 .photoSeven:hover{
-    background-image: url(../Portfolio/media/products/7\ blak.jpg);
+    background-image: url('/photography/7\ blak.jpg);
 }
 
 .photoEight{
-    background-image: url(../Portfolio/media/products/8.jpg);
+    background-image: url('/photography/8.jpg);
     background-size: cover;
 }
 
 .photoEight:hover{
-    background-image: url(../Portfolio/media/products/8\ blak.jpg);
+    background-image: url('/photography/8\ blak.jpg);
 }
 
 .photoNine{
-    background-image: url(../Portfolio/media/products/9.jpg);
+    background-image: url('/photography/9.jpg);
     background-size: cover  ;
 }
 
 .photoNine:hover{
-    background-image: url(../Portfolio/media/products/9\ black.jpg);
+    background-image: url('/photography/9\ black.jpg);
 }
 
 .worksId{
@@ -579,11 +579,11 @@ p{
     text-align: center;
 }
 .buttonLess{
-    background-image: url('../Portfolio/media/arrowIzq.png');
+    background-image: url('/photography/arrowIzq.png');
     background-size: contain;
 }
 .buttonAdd{
-    background-image: url('../Portfolio/media/arrowDer.png');
+    background-image: url('/photography/arrowDer.png');
     background-size: cover;
 }
 .vaca{
