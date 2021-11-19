@@ -1,61 +1,61 @@
 var Rufian =  [
     { 
     id: 1 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/1.jpg'
+    src:'/photography/Ruf/1.jpg'
 },
 
 { 
     id: 2 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/2.jpg'
+    src:'/photography/Ruf/2.jpg'
 },
 
 {
     id: 3 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/3.jpg'
+    src: '/photography/Ruf/3.jpg'
 
 },
     { 
     id: 4 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/4.jpg'
+    src:'/photography/Ruf/4.jpg'
 },
 
 { 
     id: 5 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/5.jpg'
+    src:'/photography/Ruf/5.jpg'
 },
 
 {
     id: 6 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/6.jpg'
+    src: '/photography/Ruf/6.jpg'
 
 },
     { 
     id: 7 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/8.jpg'
+    src:'/photography/Ruf/8.jpg'
 },
     { 
     id: 8 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/7.jpg'
+    src:'/photography/Ruf/7.jpg'
 },
     { 
     id: 9 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/9.jpg'
+    src:'/photography/Ruf/9.jpg'
 },
     { 
     id: 10 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/10.jpg'
+    src:'/photography/Ruf/10.jpg'
 },
     { 
     id: 11,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/11.jpg'
+    src:'/photography/Ruf/11.jpg'
 },
     { 
     id: 12,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/12.jpg'
+    src:'/photography/Ruf/12.jpg'
 },
     { 
     id: 13,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Ruf/13.jpg'
+    src:'/photography/Ruf/13.jpg'
 }
 
 
