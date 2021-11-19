@@ -1,27 +1,27 @@
 var Photos =  [
     { 
     id: 1 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Me/1.jpg'
+    src:'/photography/Me/1.jpg'
 },
 
 { 
     id: 2 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Me/2.jpg'
+    src:'/photography/Me/2.jpg'
 },
 
 {
     id: 3 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Me/3.jpg'
+    src: '/photography/Me/3.jpg'
 
 },
     { 
     id: 4 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Me/4.jpg'
+    src:'/photography/Me/4.jpg'
 },
 
 { 
     id: 5 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Me/5.jpg'
+    src:'/photography/Me/5.jpg'
 }
 
   ]
