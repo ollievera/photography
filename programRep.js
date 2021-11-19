@@ -1,99 +1,99 @@
 var Republica =  [
     { 
     id: 1 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/1.jpg'
+    src:'/photography/Rep/1.jpg'
 },
 
 { 
     id: 2 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/2.jpg'
+    src:'/photography/Rep/2.jpg'
 },
 
 {
     id: 3 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/3.jpg'
+    src: '/photography/Rep/3.jpg'
 
 },
     { 
     id: 4 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/4.jpg'
+    src:'/photography/Rep/4.jpg'
 },
 
 { 
     id: 5 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/5.jpg'
+    src:'/photography/Rep/5.jpg'
 },
 
 {
     id: 6 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/6.jpg'
+    src: '/photography/Rep/6.jpg'
 
 },
     { 
     id: 7 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/7.jpg'
+    src:'/photography/Rep/7.jpg'
 },
 
 { 
     id: 8 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/8.jpg'
+    src:'/photography/Rep/8.jpg'
 },
 
 {
     id: 9 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/9.jpg'
+    src: '/photography/Rep/9.jpg'
 
 },
     { 
     id: 10 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/10.jpg'
+    src:'/photography/Rep/10.jpg'
 },
 
 { 
     id: 11 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/11.jpg'
+    src:'/photography/Rep/11.jpg'
 },
 
 {
     id: 12 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/12.jpg'
+    src: '/photography/Rep/12.jpg'
 
 },
 
 { 
     id: 13 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/13.jpg'
+    src:'/photography/ep/13.jpg'
 },
 
 {
     id: 14 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/14.jpg'
+    src: '/photography/Rep/14.jpg'
 
 },
 
 { 
     id: 15 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/15.jpg'
+    src:'/photography//Rep/15.jpg'
 },
 
 {
     id: 16 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/16.jpg'
+    src: '/photography/Rep/16.jpg'
 },
 
 { 
     id: 17 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/17.jpg'
+    src:'/photography/Rep/17.jpg'
 },
 
 {
     id: 18 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/18.jpg'
+    src: '/photography/Rep/18.jpg'
 },
 
 { 
     id: 19 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Rep/19.jpg'
+    src:'/photography/Rep/19.jpg'
 },
 
   ]
