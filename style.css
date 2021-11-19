@@ -450,7 +450,7 @@ p{
 
 .photoOne{
     width: 250px;
-    background-image: url('/photography/products/1.jpg');
+    background-image: url('/photography/1.jpg');
     background-size: contain;
     display: grid;
     align-content: center;
