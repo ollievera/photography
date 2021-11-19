@@ -1,57 +1,57 @@
 var Kevingston =  [
     { 
     id: 1 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/2.jpg'
+    src:'/photography/Kev/2.jpg'
 },
 
 { 
     id: 2 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/3.jpg'
+    src:'/photography/Kev/3.jpg'
 },
 
 {
     id: 3 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/4.jpg'
+    src: '/photography/Kev/4.jpg'
 
 },
     { 
     id: 4 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/5.jpg'
+    src:'/photography/Kev/5.jpg'
 },
 
 { 
     id: 5 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/6.jpg'
+    src:'/photography/Kev/6.jpg'
 },
 
 {
     id: 6 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/17.jpg'
+    src: '/photography/Kev/17.jpg'
 
 },
     { 
     id: 7 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/14.jpg'
+    src:'/photography/Kev/14.jpg'
 },
 
 { 
     id: 8 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/8.jpg'
+    src:'/photography/Kev/8.jpg'
 },
 
 {
     id: 9 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/9.jpg'
+    src:'/photography/Kev/9.jpg'
 
 },
     { 
     id: 10 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/10.jpg'
+    src:'/photography/Kev/10.jpg'
 },
 
 { 
     id: 11 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/Kev/11.jpg'
+    src:'/photography/Kev/11.jpg'
 }
   ]
 
