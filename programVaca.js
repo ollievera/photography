@@ -1,32 +1,32 @@
 var Vaca =  [
     { 
     id: 1 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/vaca/1.jpg'
+    src:'/photography/vaca/1.jpg'
 },
 
 { 
     id: 2 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/vaca/2.jpg'
+    src:'/photography/vaca/2.jpg'
 },
 
 {
     id: 3 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/vaca/3.jpg'
+    src: '/photography/vaca/3.jpg'
 
 },
     { 
     id: 4 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/vaca/4.jpg'
+    src:'/photography/vaca/4.jpg'
 },
 
 { 
     id: 5 ,
-    src:'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/vaca/5.jpg'
+    src:'/photography/vaca/5.jpg'
 },
 
 {
     id: 6 ,
-    src: 'file:///C:/Users/Christian/Desktop/Carpetas/ProyectosConCleo/Portfolio/media/brands/vaca/6.jpg'
+    src: '/photography/vaca/6.jpg'
 
 }
 
